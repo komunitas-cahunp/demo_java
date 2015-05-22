@@ -6,6 +6,6 @@ public class sepedaPol{
 	}
 
 	int getGir(){
-		return gir;
+		return gir; // return gir
 	}
 }
